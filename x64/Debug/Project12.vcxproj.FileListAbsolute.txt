@@ -1,0 +1,6 @@
+C:\Users\Merco\source\repos\Project12\x64\Debug\Project12.vcxproj.CopyComplete
+C:\Users\Merco\source\repos\Project12\x64\Debug\Project12.exe
+C:\Users\Merco\source\repos\Project12\x64\Debug\glew32d.dll
+C:\Users\Merco\source\repos\Project12\x64\Debug\glfw3.dll
+C:\Users\Merco\source\repos\Project12\x64\Debug\libcurl-d.dll
+C:\Users\Merco\source\repos\Project12\x64\Debug\zlibd1.dll

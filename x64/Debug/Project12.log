@@ -1,0 +1,3 @@
+﻿  proje12.cpp
+C:\Users\Merco\source\repos\Project12\proje12.cpp(302,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project12.vcxproj -> C:\Users\Merco\source\repos\Project12\x64\Debug\Project12.exe
